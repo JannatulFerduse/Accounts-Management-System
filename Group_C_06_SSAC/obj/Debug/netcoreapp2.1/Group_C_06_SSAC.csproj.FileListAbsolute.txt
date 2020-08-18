@@ -1,0 +1,339 @@
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+C:\Users\Shuvo\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\Jannat\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+E:\New folder\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\Student\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultydetails.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\salary.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteF.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetailsF.g.cshtml.cs
+J:\assignement\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetailsF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultydetails.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\salary.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facreg.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetailsF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditF.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facreg.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultydetails.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\salary.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+C:\Users\SHUVO\Desktop\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteF.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetailsF.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditF.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facreg.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultydetails.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\salary.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+F:\Project\New folder\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.deps.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.runtimeconfig.dev.json
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.dll
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\bin\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csprojAssemblyReference.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfoInputs.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.AssemblyInfo.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CoreCompileInputs.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorAssemblyInfo.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.input.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.TagHelpers.output.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorCoreGenerate.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DeleteF.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\DetailsF.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\EditF.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facreg.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultydetails.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\facultylist.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\payment.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\salary.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdlog.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\stdreg.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentdetails.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Home\studentList.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.RazorTargetAssemblyInfo.cs
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.Views.pdb
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.dll
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.pdb
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.genruntimeconfig.cache
+F:\Project\Group06\Group_C_06_SSAC\Group_C_06_SSAC\obj\Debug\netcoreapp2.1\Group_C_06_SSAC.csproj.CopyComplete

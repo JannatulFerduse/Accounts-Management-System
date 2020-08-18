@@ -1,0 +1,45 @@
+﻿@model List<Group_C_06_SSAC.Models.salary>;
+
+<br />
+<br />
+
+<div class="container">
+
+    <table style="width:100%">
+        <tr>
+
+
+            <th>Date</th>
+            <th>Monthly Salary</th>
+            <th>House rent</th>
+            <th>Bonus</th>
+            <th>Hospital expense</th>
+            <th>Toatl Salary</th>
+            <th>Recieved Salary</th>
+
+            <th>Deu</th>
+
+            <!--Deu-->
+
+        </tr>
+        <tbody>
+
+            @foreach (var x in Model)
+            {
+                <tr>
+                    <td>@String.Format("{0:dd/MM/yyyy}", x.date)</td>
+                    <td>@x.monthly</td>
+                    <td>@x.rent</td>
+                    <td>@x.bonus</td>
+                    <td>@x.hospital</td>
+                    <td>@(x.monthly + x.rent + x.bonus + x.hospital)</td>
+                    <td>@x.recieved</td>
+
+                    <td>@(x.monthly + x.rent + x.bonus + x.hospital - x.recieved)</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

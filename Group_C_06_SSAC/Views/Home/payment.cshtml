@@ -1,0 +1,77 @@
+﻿@model Group_C_06_SSAC.Models.payment
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="payment" asp-controller="Home" method="post">
+            <h1>Payment record</h1>
+            <hr />
+            <div class="text-success">
+                @ViewBag.Success
+            </div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="id"></label>
+                <input asp-for="id" class="form-control" placeholder="Enter Id">
+                <span asp-validation-for="id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="name"></label>
+                <input asp-for="name" class="form-control" placeholder="Enter name">
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="date"></label>
+                <input asp-for="date" class="form-control">
+
+            </div>
+            <div class="form-group">
+                <label asp-for="admission"></label>
+                <input asp-for="admission" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="admission" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="monthly"></label>
+                <input asp-for="monthly" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="monthly" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="xam"></label>
+                <input asp-for="xam" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="xam" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tie"></label>
+                <input asp-for="tie" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="tie" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="syllabus"></label>
+                <input asp-for="syllabus" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="syllabus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sports"></label>
+                <input asp-for="sports" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="sports" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="picnic"></label>
+                <input asp-for="picnic" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="picnic" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="due"></label>
+                <input asp-for="due" class="form-control" placeholder="Enter Amount">
+                <span asp-validation-for="due" class="text-danger"></span>
+            </div>
+            <div>
+                <input type="submit" class="btn btn-primary btn-block" value="Save" />
+            </div>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿@model Group_C_06_SSAC.Models.Students
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="stdreg" asp-controller="Home" method="post">
+            <h1>Insert record</h1>
+            <hr />
+            <div class="text-success">
+                @ViewBag.Success
+            </div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Id"></label>
+                <input asp-for="Id" class="form-control" placeholder="Enter Id">
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Firstname"></label>
+                <input asp-for="Firstname" class="form-control" placeholder="Enter Firstname">
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lastname"></label>
+                <input asp-for="Lastname" class="form-control" placeholder="Enter Lastname">
+                <span asp-validation-for="Lastname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Standard"></label>
+                <input asp-for="Standard" class="form-control" placeholder="Enter class">
+                <span asp-validation-for="Standard" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address"></label>
+                <input asp-for="Address" class="form-control" placeholder="Enter Address">
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" placeholder="Enter Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div>
+                <input type="submit" class="btn btn-primary btn-block" value="Save" />
+            </div>
+
+        </form>
+    </div>
+</div>

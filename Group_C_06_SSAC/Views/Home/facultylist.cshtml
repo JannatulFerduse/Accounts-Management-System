@@ -1,0 +1,41 @@
+﻿@*@model Group_C_06_SSAC.Models.Faculty;
+
+    @Model.Id  <br/>
+    @Model.Name*@
+
+
+@model List<Group_C_06_SSAC.Models.Faculty>;
+
+<br />
+<br />
+
+<div class="container">
+    <p>
+        <a asp-action="facreg">Create New</a>
+    </p>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var x in Model)
+            {
+            <tr>
+                <td>@x.Id</td>
+                <td>@x.Firstname</td>
+                <td>
+                    @Html.ActionLink("Edit", "EditF", new { id = x.Id }) |
+                    @Html.ActionLink("Details", "DetailsF", new { id = x.Id }) |
+                    @Html.ActionLink("Delete", "DeleteF", new { id = x.Id })
+                </td>
+
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

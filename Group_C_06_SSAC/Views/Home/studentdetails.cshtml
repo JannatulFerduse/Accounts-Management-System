@@ -1,0 +1,44 @@
+﻿@model List<Group_C_06_SSAC.Models.payment>;
+
+<br />
+<br />
+
+<div class="container">
+
+    <table style="width:100%">
+        <tr>
+
+
+            <th>Date</th>
+            <th>Admission Fees</th>
+            <th>Monthly Fees</th>
+            <th>Examination Fees</th>
+            <th>Tie/Id card/Diary</th>
+            <th>Syllabus</th>
+            <th>Sports event</th>
+            <th>Picnic</th>
+            <th>Deu</th>
+            <th>Total</th>
+        </tr>
+        <tbody>
+
+            @foreach (var x in Model)
+            {
+            <tr>
+                <td>@String.Format("{0:dd/MM/yyyy}", x.date)</td>
+                <td>@x.admission</td>
+                <td>@x.monthly</td>
+                <td>@x.xam</td>
+                <td>@x.tie</td>
+                <td>@x.syllabus</td>
+                <td>@x.sports</td>
+                <td>@x.picnic</td>
+                <td>@x.due</td>
+                <td>@(x.admission + x.monthly + x.xam + x.tie + x.syllabus + x.sports + x.picnic - x.due)</td>
+
+            </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

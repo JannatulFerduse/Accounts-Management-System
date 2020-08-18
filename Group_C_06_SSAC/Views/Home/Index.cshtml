@@ -1,0 +1,27 @@
+﻿@model Group_C_06_SSAC.Models.payment
+
+
+<div class="container">
+    <br />
+    <div class="hero-image">
+        <h1 style="background-color:lightseagreen; text-align:center">Safiuddin Sarkar Academic College</h1>
+    </div>
+
+    <br />
+    <br />
+    <div>
+        @ViewBag.Login
+    </div>
+    <form asp-action="Index" asp-controller="Home" method="post">
+
+        <div class="form-group">
+            <label for="Id">ID:</label>
+            <input asp-for="id" class="form-control" placeholder="Enter your id">
+        </div>
+        <div class="form-group">
+            <label for="Name">Password:</label>
+            <input asp-for="name" class="form-control" placeholder="Enter Password">
+        </div>
+        <input type="submit" class="btn btn-default" value="Login" />
+    </form>
+</div>

@@ -1,0 +1,47 @@
+﻿@*@model Group_C_06_SSAC.Models.Students;
+
+    @Model.Id  <br/>
+    @Model.Name*@
+@model List<Group_C_06_SSAC.Models.Students>;
+
+
+<br />
+<br />
+<br />
+<center>
+    <h2>Student Information</h2>
+</center>
+<br />
+<br />
+<div class="container">
+    <p>
+        <a asp-action="stdreg">Create New</a>
+    </p>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var x in Model)
+            {
+                <tr>
+                    <td>@x.Id</td>
+                    <td>@x.Firstname @x.Lastname</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = x.Id }) |
+                        @Html.ActionLink("Details", "Details", new { id = x.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = x.Id })
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,72 @@
+﻿@model Group_C_06_SSAC.Models.Faculty
+
+@{
+    ViewData["Title"] = "Edit";
+
+}
+
+<h2>Edit Information</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="payment" asp-controller="Home" method="post">
+
+            <hr />
+            <div class="text-success">
+                @ViewBag.Success
+            </div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Id"></label>
+                <input asp-for="Id" class="form-control" placeholder="Enter Id">
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Firstname"></label>
+                <input asp-for="Firstname" class="form-control" placeholder="Enter Firstname">
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lastname"></label>
+                <input asp-for="Lastname" class="form-control" placeholder="Enter Lastname">
+                <span asp-validation-for="Lastname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Designation"></label>
+                <input asp-for="Designation" class="form-control" placeholder="Enter Age">
+                <span asp-validation-for="Designation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address"></label>
+                <input asp-for="Address" class="form-control" placeholder="Enter Address">
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" placeholder="Enter Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="salary"></label>
+                <input asp-for="salary" class="form-control" placeholder="Enter Address">
+                <span asp-validation-for="salary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="date"></label>
+                <input asp-for="date" class="form-control" placeholder="Enter Email">
+                <span asp-validation-for="date" class="text-danger"></span>
+            </div>
+            <div>
+                <input type="submit" class="btn btn-primary btn-block" value="Save" />
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="facultyList">Back to List</a>
+</div>
+
